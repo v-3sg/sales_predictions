@@ -1,7 +1,5 @@
 # sales_predictions
 
-Finalize your README with an overview of the project, an explanation of the data (including visualizations), and a summary of the results and recommendations. Think of this as an executive summary or an overview of your project.
-
 Overview
 
 The goal of this project is to help the retailer understand the properties of products and outlets that play crucial roles in predicting sales. Data used in this project is from the sales prediction dataset.
